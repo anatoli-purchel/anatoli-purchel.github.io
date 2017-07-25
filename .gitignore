@@ -1,0 +1,9 @@
+node_modules/
+packages/
+[oO]bj
+.DS_Store
+
+.paket/paket.exe
+public/
+!public/index.html
+!public/assets/Logo.jpg
